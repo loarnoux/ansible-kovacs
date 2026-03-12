@@ -23,5 +23,9 @@ Challenge 1
 vagrant up ubuntu
 ```
 ```vagrant ssh ubuntu```
-```sudo apt update``
-```sudo apt-get cache search --names-only ansible```
+
+```sudo apt update```
+
+```sudo apt-cache search --names-only ansible```
+
+```sudo apt install -y ansible```
