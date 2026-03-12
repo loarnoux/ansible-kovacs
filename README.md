@@ -110,12 +110,13 @@ ansible [core 2.15.13]
   libyaml = True
 ```
 <img width="902" height="664" alt="Capture d’écran du 2026-03-12 10-53-31" src="https://github.com/user-attachments/assets/ebd97a27-a4ed-4cf3-a5ef-6e13e8c03127" />
+
 ```
 exit
 vagrant destroy -f rocky
 ```
 
-#Atelier-03
+# Atelier-03
 ```
 vagrant up
 vagrant ssh ansible
