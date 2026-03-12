@@ -35,7 +35,8 @@ sudo apt-cache search --names-only ansible
 sudo apt install -y ansible
 ```
 ```
-ansible --version```
+ansible --version
+```
 
 ```
 ~$ ansible --version
@@ -50,6 +51,7 @@ ansible 2.10.8
 exit
 vagrant destroy -f ubuntu
 ```
+
 <img width="902" height="664" alt="Capture d’écran du 2026-03-12 10-09-54" src="https://github.com/user-attachments/assets/e9e3333a-3c62-47d1-9550-eb1004312493" />
 
 # Challenge 2
