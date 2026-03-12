@@ -16,3 +16,4 @@ Test de ping :
 <img width="1920" height="1200" alt="Capture d’écran du 2026-03-12 08-59-13" src="https://github.com/user-attachments/assets/286ca18c-b1e7-43f0-b914-0ea8430429d1" />
 
 <img width="1920" height="1200" alt="Capture d’écran du 2026-03-12 09-20-30" src="https://github.com/user-attachments/assets/21e6eda4-c3bb-4f3d-8248-53ae2a181d12" />
+<img width="1920" height="1200" alt="Capture d’écran du 2026-03-12 09-35-27" src="https://github.com/user-attachments/assets/9567d45d-6295-467f-8281-44bd3cbc26d1" />
