@@ -17,3 +17,11 @@ Test de ping :
 
 <img width="1920" height="1200" alt="Capture d’écran du 2026-03-12 09-20-30" src="https://github.com/user-attachments/assets/21e6eda4-c3bb-4f3d-8248-53ae2a181d12" />
 <img width="1920" height="1200" alt="Capture d’écran du 2026-03-12 09-35-27" src="https://github.com/user-attachments/assets/9567d45d-6295-467f-8281-44bd3cbc26d1" />
+
+Challenge 1
+```
+vagrant up ubuntu
+```
+```vagrant ssh ubuntu```
+```sudo apt update``
+```sudo apt-get cache search --names-only ansible```
