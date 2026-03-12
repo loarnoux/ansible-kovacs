@@ -22,10 +22,17 @@ Challenge 1
 ```
 vagrant up ubuntu
 ```
-```vagrant ssh ubuntu```
-
-```sudo apt update```
-
-```sudo apt-cache search --names-only ansible```
-
-```sudo apt install -y ansible```
+```
+vagrant ssh ubuntu
+```
+```
+sudo apt update
+```
+```
+sudo apt-cache search --names-only ansible
+```
+```
+sudo apt install -y ansible
+```
+```
+ansible --version```
